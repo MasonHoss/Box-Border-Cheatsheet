@@ -35,14 +35,3 @@ td, th{
 td{
     text-align: center;
 }
-img {
-    margin-top: 30px;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-}
-
-figcaption{
-    margin-top: 20px;
-    text-align: center;
-}
