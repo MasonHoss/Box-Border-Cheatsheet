@@ -1,0 +1,48 @@
+.title{
+    margin: 20px 0px;
+    text-align: center;
+}
+
+body{
+    background-color:rgb(216, 171, 241)
+}
+
+thead{
+    background-color: blueviolet;
+    font-weight: bold;
+    text-align: center;
+}
+
+.code{
+    font-family: sans-serif;
+    background-color: #DED7EC
+}
+
+table{
+    font-family: sans-serif;
+    border: 3px solid darkorchid;
+    display: table;
+    box-sizing:border-box;
+    margin: 0 auto;
+}
+
+td, th{
+    border-bottom: 1px solid;
+    border-left: 1px solid;
+    
+}
+
+td{
+    text-align: center;
+}
+img {
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+figcaption{
+    margin-top: 20px;
+    text-align: center;
+}
